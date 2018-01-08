@@ -1,7 +1,7 @@
 # 50-projects
 
-The goal is to complete one project every week in 2018, for a total of
-50-ish completed projects by the end of the year.
+The goal is to complete one project[*](#footnote-1) every week in 2018,
+for a total of 50-ish completed projects by the end of the year.
 
 - Week 00 2018-01-07: [Promotheus](https://github.com/hc5duke/promotheus) (EXIF parser)
 - Week 01 2018-01-14: TBD
@@ -55,3 +55,6 @@ The goal is to complete one project every week in 2018, for a total of
 - Week 49 2018-12-16: TBD
 - Week 50 2018-12-23: TBD
 - Week 51 2018-12-30: TBD
+
+<a name="footnote-1"></a>\* each project will be named after something
+related to [The Critic](https://en.wikipedia.org/wiki/The_Critic)
