@@ -3,7 +3,7 @@
 The goal is to complete one project every week in 2018, for a total of
 50-ish completed projects by the end of the year.
 
-- Week 00 2018-01-07: TBD
+- Week 00 2018-01-07: [Promotheus](https://github.com/hc5duke/promotheus)
 - Week 01 2018-01-14: TBD
 - Week 02 2018-01-21: TBD
 - Week 03 2018-01-28: TBD
