@@ -1,7 +1,7 @@
-# 2018x50
+# 50-projects
 
-There's 52 weeks in 2018 - the goal is one project (most likely go or
-vr) each week, for a total of 50 by the end of the year.
+The goal is to complete one project every week in 2018, for a total of
+50-ish completed projects by the end of the year.
 
 - Week 00 2018-01-07: TBD
 - Week 01 2018-01-14: TBD
