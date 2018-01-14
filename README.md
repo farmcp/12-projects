@@ -3,7 +3,7 @@
 The goal is to complete one project[*](#footnote-1) every week in 2018,
 for a total of 50-ish completed projects by the end of the year.
 
-- Week 00 2018-01-07: [Promotheus](https://github.com/hc5duke/promotheus) (EXIF parser)
+- Week 00 2018-01-07: [Promotheus](https://github.com/hc5duke/00-promotheus) (EXIF parser)
 - Week 01 2018-01-14: TBD
 - Week 02 2018-01-21: TBD
 - Week 03 2018-01-28: TBD
